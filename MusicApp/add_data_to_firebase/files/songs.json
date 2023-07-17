@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Shape of You",
+        "artist": "Ed Sheran",
+        "image": "../assets/icon.png",
+        "url": "https://dl.dropboxusercontent.com/s/bfvykmwjb05fhy9/song1.mp3?dl=0",
+        "id": 1
+    },
+    {
+        "title": "Attention",
+        "artist": "Charlie Puth",
+        "image": "../assets/icon.png",
+        "url": "https://dl.dropboxusercontent.com/s/6lwykmgtw9rsmvt/song2.mp3?dl=0",
+        "id": 2
+    },
+    {
+        "title": "Drag Me Down",
+        "artist": "One Direction",
+        "image": "../assets/icon.png",
+        "url": "https://dl.dropboxusercontent.com/s/c2k2skkeqsrct2b/song3.mp3?dl=0",
+        "id": 3
+    },
+    {
+        "title": "Najaa",
+        "artist": "Pav Dharia, Tanishk Bagchi, Nikhita Gandhi",
+        "image": "../assets/icon.png",
+        "url": "https://dl.dropboxusercontent.com/s/seqvclonpzokn9j/song4.mp3?dl=0",
+        "id": 4
+    },
+    {
+        "title": "Ab To Forever",
+        "artist": "Shreya Ghoshal, KK, Vishal Dadlani",
+        "image": "../assets/icon.png",
+        "url": "https://dl.dropboxusercontent.com/s/33z1h62jp4qw12n/song5.mp3?dl=0",
+        "id": 5
+    },
+    {
+        "title": "Allah Maaf Kare",
+        "artist": "Sonu Nigam, Shilpa Rao",
+        "image": "../assets/icon.png",
+        "url": "https://dl.dropboxusercontent.com/s/aklejssb6f7vhtk/song6.mp3?dl=0",
+        "id": 6
+    },
+    {
+        "title": "Excuses",
+        "artist": "AP Dhillon",
+        "image": "../assets/icon.png",
+        "url": "https://dl.dropboxusercontent.com/s/9j46425k769qvuk/song7.mp3?dl=0",
+        "id": 7
+    },
+    {
+        "title": "Manike",
+        "artist": "Yohani, Satheeshan, Chamath Sangeeth",
+        "image": "../assets/icon.png",
+        "url": "https://dl.dropboxusercontent.com/s/p4z6v4rz2f3xtf7/song8.mp3?dl=0",
+        "id": 8
+    }
+]
